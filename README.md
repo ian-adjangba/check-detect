@@ -1,2 +1,5 @@
-# check-detect
-Check Detect is a proposed AI-assisted fraud detection support tool for use in teller operations. The system is designed to help bank tellers evaluate suspicious checks by analyzing a combination of check-material characteristics, numbering patterns, payer geography, and other structural or contextual risk indicators.
+# Synthetic Data
+
+This folder contains mock datasets created for the Check Detect proof of concept.
+
+The purpose of these files is to simulate suspicious check review scenarios without exposing real customer data.

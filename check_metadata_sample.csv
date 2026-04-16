@@ -1,0 +1,11 @@
+check_id,payer_id,payer_bank,payer_state,check_number,amount,material_score,sequence_gap_flag,routing_number_valid,micr_match,duplicate_check_flag,geo_risk_score,prior_return_count,fraud_label
+CHK001,P001,First Regional Bank,PA,1052,245.50,0.94,0,1,1,0,0.12,0,0
+CHK002,P002,Metro Commerce Bank,NJ,8945,3200.00,0.61,1,1,1,0,0.47,1,1
+CHK003,P003,Community Trust Credit Union,DE,2201,875.00,0.97,0,1,1,0,0.08,0,0
+CHK004,P004,National Business Bank,FL,1001,4900.00,0.42,1,0,0,1,0.73,2,2
+CHK005,P005,Keystone Financial,PA,3390,120.00,0.91,0,1,1,0,0.10,0,0
+CHK006,P006,Metro Commerce Bank,NY,8946,3180.00,0.63,0,1,1,0,0.49,1,1
+CHK007,P007,Atlantic Community Bank,NJ,4432,640.00,0.88,0,1,1,0,0.15,0,0
+CHK008,P008,National Business Bank,GA,1002,5150.00,0.39,0,0,0,1,0.76,3,2
+CHK009,P009,First Regional Bank,PA,1053,255.00,0.95,0,1,1,0,0.11,0,0
+CHK010,P010,Keystone Financial,OH,7300,2100.00,0.58,1,1,0,0,0.52,2,1
